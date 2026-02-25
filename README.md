@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anirudh Tiwari</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi, I'm Anirudh Tiwari
+</h1>
+
 <h3 align="center">🎮 Software Development Engineer | Unity Game Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00FFAA&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Unity+Game+Developer;Data+Structures+%26+Algorithms;Machine+Learning+Explorer;Creative+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00FFAA&center=true&vCenter=true&width=650&lines=Aspiring+Software+Development+Engineer;Unity+Game+Developer;Data+Structures+%26+Algorithms;Machine+Learning+Explorer;Creative+Problem+Solver" />
 </p>
 
 <p align="center">
@@ -11,14 +15,14 @@
 
 ---
 
-## 🎮 About Me
+# 🎮 About Me
 
 🎓 Final Year BTech CSE Student  
-💻 Aspiring SDE (Product-Based Companies)  
-🎮 Passionate Unity Game Developer  
-🧠 Strong in Data Structures & Algorithms  
+💻 Aspiring Software Development Engineer (SDE)  
+🎮 Passionate about Unity Game Development  
+🧠 Strong interest in Data Structures & Algorithms  
 
-- 🔭 Working on ML & Unity projects  
+- 🔭 Currently working on ML & Unity projects  
 - 🌱 Learning Advanced DSA & System Design  
 - 🎮 Built 3D Maze Game using Unity3D  
 - 💬 Ask me about C#, Java, Python, Unity & DSA  
@@ -28,27 +32,27 @@
 
 # 🛠 Tech Arsenal
 
-### 💻 Programming
+## 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" height="45"/>
 </p>
 
-### 🌐 Web & Database
+## 🌐 Web & Database
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,mysql" height="45"/>
 </p>
 
-### 🎮 Game Dev & 3D
+## 🎮 Game Dev & 3D
 <p>
   <img src="https://skillicons.dev/icons?i=unity,blender" height="45"/>
 </p>
 
-### 🎨 Creative Tools
+## 🎨 Creative Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps" height="45"/>
 </p>
 
-Adobe Creative Suite • Canva
+Adobe Creative Suite • Canva  
 
 ---
 
@@ -65,25 +69,21 @@ Adobe Creative Suite • Canva
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudhtiwari2003/Anirudhtiwari2003/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Anirudhtiwari2003/Anirudhtiwari2003/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-⚠️ Important:  
-After adding this README, you must create a GitHub Action to generate the snake animation.  
-If you want, I’ll give you the exact steps.
 
 ---
 
-# 🕹️ Gaming Vibe Section
+# 🎮 Gaming Mode Activated
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
 </p>
 
-> “Code. Debug. Build. Level Up.” 🎮
+> ⚡ “Code. Debug. Build. Level Up.” 🎮  
 
 ---
 
@@ -92,7 +92,7 @@ If you want, I’ll give you the exact steps.
 🚀 Crack top SDE role  
 🎮 Build immersive Unity games  
 🧠 Master DSA & System Design  
-🤖 Build ML-based intelligent systems  
+🤖 Develop ML-powered intelligent systems  
 
 ---
 
