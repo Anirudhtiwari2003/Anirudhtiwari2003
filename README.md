@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anirudh Tiwari</h1>
 <h3 align="center">Software Development Engineer | Unity Game Developer | Data Structures Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+SDE;Unity+Game+Developer;DSA+Focused;Problem+Solver;Lifelong+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anirudhtiwari2003&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -14,6 +22,7 @@
 - 🌱 Learning Advanced DSA and System Design  
 - 🎮 Built 3D Maze Game using Unity3D  
 - 💬 Ask me about C#, C, Unity, and Data Structures  
+- ⚡ Goal: Crack top SDE role & build impactful products  
 
 ---
 
@@ -53,21 +62,39 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhtiwari2003&theme=tokyonight" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhtiwari2003&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🎯 Current Focus
 - 🚀 Strengthening DSA for SDE roles  
 - 🎮 Building interactive Unity games  
 - 📈 Improving problem-solving consistency  
+- 🧩 Preparing for product-based company interviews  
+
+---
+
+## 🏆 Achievements & Highlights
+- 🎮 Developed a 3D Maze Game in Unity  
+- 🧠 Actively solving DSA problems  
+- 💻 Building ML-based projects  
+- 📚 Consistent learning mindset  
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/anirudh-tiwari-20o3/">
+  <a href="https://www.linkedin.com/in/anirudh-tiwari-20o3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:theanirudhtiwari72000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
-📧 theanirudhtiwari72000@gmail.com
+---
+
+⭐️ From [Anirudhtiwari2003](https://github.com/Anirudhtiwari2003)
