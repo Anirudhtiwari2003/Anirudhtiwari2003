@@ -1,85 +1,62 @@
 <h1 align="center">Hi 👋, I'm Anirudh Tiwari</h1>
-<h3 align="center">Software Development Engineer | Unity Game Developer | Data Structures Enthusiast</h3>
+<h3 align="center">🎮 Software Development Engineer | Unity Game Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+SDE;Unity+Game+Developer;DSA+Focused;Problem+Solver;ML+Explorer;Creative+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00FFAA&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Unity+Game+Developer;Data+Structures+%26+Algorithms;Machine+Learning+Explorer;Creative+Problem+Solver" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anirudhtiwari2003&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Anirudhtiwari2003&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎮 About Me
 
 🎓 Final Year BTech CSE Student  
-💻 Aspiring Software Development Engineer (SDE)  
-🎮 Passionate about Unity Game Development  
-🧠 Strong interest in Data Structures & Algorithms  
+💻 Aspiring SDE (Product-Based Companies)  
+🎮 Passionate Unity Game Developer  
+🧠 Strong in Data Structures & Algorithms  
 
-- 🔭 Currently working on ML & Unity projects  
-- 🌱 Learning Advanced DSA and System Design  
+- 🔭 Working on ML & Unity projects  
+- 🌱 Learning Advanced DSA & System Design  
 - 🎮 Built 3D Maze Game using Unity3D  
-- 💬 Ask me about C#, Java, Python, Unity & Data Structures  
-- ⚡ Goal: Crack top SDE role & build impactful products  
+- 💬 Ask me about C#, Java, Python, Unity & DSA  
+- ⚡ Goal: Build scalable systems + immersive games  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Arsenal
 
-### 💻 Programming Languages
+### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=c" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" height="45"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql" height="45"/>
 </p>
 
-### 🎮 Game Development & 3D
+### 🎮 Game Dev & 3D
 <p>
-  <img src="https://skillicons.dev/icons?i=unity" height="40"/>
-  <img src="https://skillicons.dev/icons?i=blender" height="40"/>
+  <img src="https://skillicons.dev/icons?i=unity,blender" height="45"/>
 </p>
 
-### 🎨 Design & Creative Tools
+### 🎨 Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps" height="45"/>
 </p>
 
-- Adobe Photoshop  
-- Adobe Creative Suite  
-- Canva  
-
-### 🧠 Core Concepts
-- Data Structures & Algorithms  
-- Object Oriented Programming (OOP)  
-- Problem Solving  
-- System Design Basics  
-
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-</p>
+Adobe Creative Suite • Canva
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirudhtiwari2003&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhtiwari2003&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirudhtiwari2003&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhtiwari2003&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -88,26 +65,41 @@
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Strengthening DSA for SDE roles  
-- 🎮 Building interactive Unity games  
-- 📈 Improving problem-solving consistency  
-- 🤖 Working on ML-based projects  
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudhtiwari2003/Anirudhtiwari2003/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+⚠️ Important:  
+After adding this README, you must create a GitHub Action to generate the snake animation.  
+If you want, I’ll give you the exact steps.
 
 ---
 
-## 🏆 Highlights
-- 🎮 Developed a 3D Maze Game in Unity  
-- 🧠 Actively solving DSA problems  
-- 💻 Exploring Machine Learning  
-- 🎨 Creative design experience with Adobe & Figma  
+# 🕹️ Gaming Vibe Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+</p>
+
+> “Code. Debug. Build. Level Up.” 🎮
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Current Mission
 
-<p>
-  <a href="https://www.linkedin.com/in/anirudh-tiwari-20o3/" target="_blank">
+🚀 Crack top SDE role  
+🎮 Build immersive Unity games  
+🧠 Master DSA & System Design  
+🤖 Build ML-based intelligent systems  
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirudh-tiwari-20o3/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:theanirudhtiwari72000@gmail.com">
@@ -117,4 +109,4 @@
 
 ---
 
-⭐️ From [Anirudhtiwari2003](https://github.com/Anirudhtiwari2003)
+⭐ From [Anirudhtiwari2003](https://github.com/Anirudhtiwari2003)
