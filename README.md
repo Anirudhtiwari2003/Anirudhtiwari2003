@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer | Unity Game Developer | Data Structures Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+SDE;Unity+Game+Developer;DSA+Focused;Problem+Solver;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+SDE;Unity+Game+Developer;DSA+Focused;Problem+Solver;ML+Explorer;Creative+Developer" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - 🔭 Currently working on ML & Unity projects  
 - 🌱 Learning Advanced DSA and System Design  
 - 🎮 Built 3D Maze Game using Unity3D  
-- 💬 Ask me about C#, C, Unity, and Data Structures  
+- 💬 Ask me about C#, Java, Python, Unity & Data Structures  
 - ⚡ Goal: Crack top SDE role & build impactful products  
 
 ---
@@ -31,14 +31,34 @@
 ### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
 </p>
 
-### 🎮 Game Development
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
+
+### 🎮 Game Development & 3D
 <p>
   <img src="https://skillicons.dev/icons?i=unity" height="40"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="40"/>
 </p>
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="40"/>
+</p>
+
+- Adobe Photoshop  
+- Adobe Creative Suite  
+- Canva  
 
 ### 🧠 Core Concepts
 - Data Structures & Algorithms  
@@ -72,15 +92,15 @@
 - 🚀 Strengthening DSA for SDE roles  
 - 🎮 Building interactive Unity games  
 - 📈 Improving problem-solving consistency  
-- 🧩 Preparing for product-based company interviews  
+- 🤖 Working on ML-based projects  
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Highlights
 - 🎮 Developed a 3D Maze Game in Unity  
 - 🧠 Actively solving DSA problems  
-- 💻 Building ML-based projects  
-- 📚 Consistent learning mindset  
+- 💻 Exploring Machine Learning  
+- 🎨 Creative design experience with Adobe & Figma  
 
 ---
 
